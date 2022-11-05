@@ -4,7 +4,7 @@ angka = int(input("masukkan angka :"))
 
 #jika angka habis dibagi nol , maka genap 
 if(angka % 2) == 0: 
-    print("{0} adalah bilangan genap".format(angka)) 
+    print((angka)) 
 #jika angka tidak habis dibagi nol , maka ganjil 
 
 else : 
