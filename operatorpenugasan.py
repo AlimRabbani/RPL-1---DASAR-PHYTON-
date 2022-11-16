@@ -5,6 +5,7 @@ a = 10 #inputkan nilai a = 10
 #Mari kita mulai  
 #penjumlahan 
 a +=2 # atau a = a + 10  
+   
 print("nilai  a :" , a)  
 
 #pengurangan 
