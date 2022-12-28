@@ -11,7 +11,7 @@ class Luas:
         self.jari_jari = r
     def __str__(self):
         luasLingkaran= 0.5 *self.luas* self.jari_jari
-        return f'segitiga(alas={self.luas}={self.jari_jari} luas={"luas lingkaran adalah ",luasLingkaran})' 
+        return f'luas(alas={self.luas}={self.jari_jari} luas={"luas lingkaran adalah ",luasLingkaran})' 
 
     def __init__(self, p , l , t): 
         self.panjang = p
@@ -29,9 +29,6 @@ class Luas:
         luasBalok = 0.5 *self.panjang * self.lebar * self.tinggi
         return f'segitiga(alas={self.alas}={self.tinggi} luas={"luas egitiga adalah ",luasBalok})' 
 
-    a =(20 ,3,7) 
-
-    print(a)
     
  
 

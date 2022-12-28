@@ -25,7 +25,6 @@ superman3.power = "over power"
 print(superman1) 
 print(superman1.__dict__) #buat manggil semuah atribut superman1 
 print(superman1.name , superman1.helat,superman1.power) # pemanggilan atributnya juga bisa seperti ini silahka di coba 
-
 # ok neks kita bakal bahas atribut 
 #terimaksih 
 

@@ -21,5 +21,6 @@ elif operator == "/":
     hasil = angka_1 / angka_2 
     print(f"hasilnya adalah{hasil}")  
 else : 
-    print("program error") 
+    print("kamu minput yang benner lah bg")  
+
 print("Terimakasih")

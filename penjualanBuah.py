@@ -2,9 +2,10 @@ print("===============================================")
 print("----------------Selamat datang-----------------")
 print("________________________________________________") 
 
-apel = int(input("|masukkan banyak apel anda : ")) 
-jeruk = int(input("|masukkan banyak jeruk anda : "))
-semangka = int(input("Masukkan banyak semangka anda : "))
+apel = int(input("|masukkan banyak apel yang anda inginkan  : ")) 
+jeruk = int(input("|masukkan banyak jeruk yang  anda inginkan : "))
+semangka = int(input("Masukkan banyak semangka yang anda inginkan  : "))
+
 
 
 Harga_apel = 5000 

@@ -12,7 +12,7 @@ while k <=10:
    if k == 5: 
     break
    print(k,'x',k,'=',k*k) 
-   k += 1   
+   k += 1  
 
 #contoh 3  n
 for a in range(1,11): 
